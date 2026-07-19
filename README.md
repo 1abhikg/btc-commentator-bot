@@ -58,7 +58,7 @@ price movement size.
 
 | Item | Requirement |
 |------|-------------|
-| OS | Windows 7 / 10 / 11 |
+| OS | Windows 7 / 8 / 10 / 11 |
 | Python | 3.8 or above |
 | Processor | Intel Core i3 or above |
 | RAM | 2GB minimum |
